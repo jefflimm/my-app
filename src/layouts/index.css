@@ -14,5 +14,13 @@ a {
 }
 
 .Hero {
-  background: url('../images/wallpaper2.jpg');
+  background: url('../images/wallpaper3.jpg');
+  height: 920px;
+  background-size: cover;
+  background-position: center;
+}
+
+.HeroGroup {
+  margin: 0 auto;
+  max-width: 500px;
 }
